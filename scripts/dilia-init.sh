@@ -1,10 +1,6 @@
 
 # Apt get dependencies
-sudo apt-get install -y mongodb-server
-sudo apt-get install -y curl
-sudo apt-get install -y libkrb5-dev
-sudo apt-get install -y git
-sudo apt-get install -y g++
+sudo apt-get install -y mongodb-server curl libkrb5-dev git g++
 
 # Setting up node via nvm
 export NVM_DIR="$HOME/.nvm"
